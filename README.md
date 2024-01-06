@@ -17,21 +17,7 @@
 I am a mathematician and data analyst currently pursuing a Ph.D., exploring the stochastic spread of invasive species. Proficient in Python, I leverage data science to unravel ecological dynamics. My work involves developing predictive models and employing advanced statistical techniques to understand the intricate patterns governing invasive species expansion. Through my research, I aim to bridge the gap between complex mathematical concepts and practical insights, contributing meaningfully to invasive species ecology. Passionate about technology, I strive to create impactful solutions and insights that address the challenges posed by invasive species in our ecosystems.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/> 
 
 
 ## Languages and Tools  
@@ -70,11 +56,4 @@ I am a mathematician and data analyst currently pursuing a Ph.D., exploring the 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=NikosAvg&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
