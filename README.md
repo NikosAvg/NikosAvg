@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am a mathematician and data analyst currently pursuing a Ph.D., exploring the stochastic spread of invasive species. Proficient in Python, I leverage data science to unravel ecological dynamics. My work involves developing predictive models and employing advanced statistical techniques to understand the intricate patterns governing invasive species expansion. Through my research, I aim to bridge the gap between complex mathematical concepts and practical insights, contributing meaningfully to invasive species ecology. Passionate about technology, I strive to create impactful solutions and insights that address the challenges posed by invasive species in our ecosystems.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolaos-avgoustis) 
@@ -10,4 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosAvg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikosAvg&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NikosAvg&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
