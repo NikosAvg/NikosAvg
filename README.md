@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Mathematician and Software Developer currently pursuing a Ph.D., exploring the stochastic spread of invasive species. Proficient in Python, I leverage data science to unravel ecological dynamics. My work involves developing predictive models and employing advanced statistical techniques to understand the intricate patterns governing invasive species expansion. Through my research, I aim to bridge the gap between complex mathematical concepts and practical insights, contributing meaningfully to invasive species ecology. Passionate about technology, I strive to create impactful solutions and insights that address the challenges posed by invasive species in our ecosystems.
+athematician and Software Developer pursuing a Ph.D., specializing in stochastic modeling, statistical inference, and data-driven decision systems. My research focuses on wildfire simulation and propagation modeling, building probabilistic frameworks to understand and forecast complex, high-uncertainty natural phenomena.
+
+Professionally, I work as a Yield and Revenue Analyst, applying quantitative methods to pricing, demand forecasting, and revenue optimization. I develop models that transform noisy, high-dimensional data into actionable insights for strategic decision-making.
+
+I primarily work in Python and Excel, leveraging statistical modeling, simulation, and time series analysis, with a strong focus on forecasting under uncertainty and optimization problems. I’m particularly interested in quantitative and analytics roles where rigorous modeling directly informs business and operational strategy.
 
 
 ## 🌐 Socials:
