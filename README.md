@@ -1,5 +1,5 @@
 # 💫 About Me:
-athematician and Software Developer pursuing a Ph.D., specializing in stochastic modeling, statistical inference, and data-driven decision systems. My research focuses on wildfire simulation and propagation modeling, building probabilistic frameworks to understand and forecast complex, high-uncertainty natural phenomena.
+Mathematician and Software Developer pursuing a Ph.D., specializing in stochastic modeling, statistical inference, and data-driven decision systems. My research focuses on wildfire simulation and propagation modeling, building probabilistic frameworks to understand and forecast complex, high-uncertainty natural phenomena.
 
 Professionally, I work as a Yield and Revenue Analyst, applying quantitative methods to pricing, demand forecasting, and revenue optimization. I develop models that transform noisy, high-dimensional data into actionable insights for strategic decision-making.
 
