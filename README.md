@@ -1,22 +1,34 @@
-# 💫 About Me:
-Mathematician and Software Developer pursuing a Ph.D., specializing in stochastic modeling, statistical inference, and data-driven decision systems. My research focuses on wildfire simulation and propagation modeling, building probabilistic frameworks to understand and forecast complex, high-uncertainty natural phenomena.
+## About me
 
-Professionally, I work as a Yield and Revenue Analyst, applying quantitative methods to pricing, demand forecasting, and revenue optimization. I develop models that transform noisy, high-dimensional data into actionable insights for strategic decision-making.
+Mathematician and Python developer working on stochastic modeling, simulation, and
+statistical inference for systems under deep uncertainty. My PhD research builds
+probabilistic frameworks for natural hazard prediction — wildfire ignition and
+propagation modeling — and I've contributed to research projects on hazard
+management, biodiversity and microclimate modeling, seismic risk estimation, and
+water infrastructure analysis for the Ionian Islands.
 
-I primarily work in Python and Excel, leveraging statistical modeling, simulation, and time series analysis, with a strong focus on forecasting under uncertainty and optimization problems. I’m particularly interested in quantitative and analytics roles where rigorous modeling directly informs business and operational strategy.
+I write Python for both research and production: Bayesian models in Stan and PyMC,
+simulation and time-series pipelines built on NumPy, SciPy and pandas, packaged as
+tested, documented software rather than one-off scripts. Alongside the research I
+work as a quantitative analyst, building demand forecasting and optimization models
+on noisy operational data.
 
+Open to remote roles in Python engineering, scientific computing, and probabilistic
+modeling — particularly in climate, hazard, and risk.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolaos-avgoustis) 
+## Selected work
 
-[![](https://visitcount.itsvg.in/api?id=NikosAvg&icon=0&color=1)](https://visitcount.itsvg.in)
+- **[Stochastic Data Analysis Toolkit](https://github.com/NikosAvg/…)** — Python library for stochastic modeling and simulation, developed for university teaching.
+- **[Quantitative Equity Portfolio Optimization Framework](https://github.com/NikosAvg/Quantitative-Equity-Portfolio-Optimization-Framework)** — factor-based portfolio construction and backtesting with constrained mean-variance 
+- **Research projects** — LAERTIS (natural hazard management), TELEMAXOS (ML for seismic risk), BEST (biodiversity and microclimate modeling), SAVE WATER (smart water infrastructure).
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikosAvg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikosAvg&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosAvg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&&layout=compact)
+## Tools
 
----
+**Languages** Python · SQL · Bash · LaTeX
+**Modeling** PyMC · Stan · NumPy · SciPy · pandas · scikit-learn
+**Visualization** Matplotlib · Plotly
+**Engineering** Git · pytest · Flask · GitHub Actions
 
+## Elsewhere
+
+[Portfolio](https://nikosavg.github.io/) · [LinkedIn](https://linkedin.com/in/nikolaos-avgoustis) · [ResearchGate](https://www.researchgate.net/profile/Nikolaos-Augoustis)
