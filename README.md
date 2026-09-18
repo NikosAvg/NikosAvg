@@ -18,7 +18,7 @@ modeling — particularly in climate, hazard, and risk.
 
 ## Selected work
 
-- **[Stochastic Data Analysis Toolkit](https://github.com/NikosAvg/…)** — Python library for stochastic modeling and simulation, developed for university teaching.
+- **[Stochastic Processes](https://github.com/NikosAvg/StochasticProcesses)** — Python library for stochastic processes generation and simulation, developed for university teaching.
 - **[Quantitative Equity Portfolio Optimization Framework](https://github.com/NikosAvg/Quantitative-Equity-Portfolio-Optimization-Framework)** — factor-based portfolio construction and backtesting with constrained mean-variance 
 - **Research projects** — LAERTIS (natural hazard management), TELEMAXOS (ML for seismic risk), BEST (biodiversity and microclimate modeling), SAVE WATER (smart water infrastructure).
 
